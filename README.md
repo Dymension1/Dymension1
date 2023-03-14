@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dymension1
+- 👋 Hi, I’m Luis
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning .NET 
 - 💞️ I’m looking to collaborate on React to learn fast
